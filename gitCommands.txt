@@ -1,0 +1,5 @@
+git pull to get repository from github
+git status to check changes in repostory
+git add to add a new file
+git commit -m to commit changes
+git push to make changes in github
